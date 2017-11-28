@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">Pomocnik</string>
+  <string name="openDrawer">Drawer Otworz</string>
+  <string name="closeDrawer">Drawer Zamknij</string>
+  <string name="settingsDrawer">Ustawienia</string>
+  <!--Main.axml-->
+  <string name="header">Witaj!</string>
+  <string name="or">lub</string>
+  <string name="signIn">Zaloguj się!</string>
+  <string name="signUp">Rejstracja z użyciem e-mail</string>
+  <!--Response from server - Sing Up Module -dialog_sign_up.axml-->
+  <string name ="firstNameSingUp">Twój pseudonim...</string>
+  <string name ="EmailSingUp">Twój adres e-mail...</string>
+  <string name ="PasswordSingUp">Hasło...</string>
+  <string name ="password2SingUp">Powtórz swoje hasło...</string>
+  <string name ="sUSignUp">Zarejstruj!</string>
+  
+  <string name ="AllfieldsmustBefilledIn">Wszystkie pola muszą zostać wypełnione!</string>
+  <string name ="EmailAdressAreIncorrect">Adres e-mail jest niepoprawny!</string>
+  <string name ="ThisLoginIsArleadyInUse">Ten login jest jest już używany przez kogoś innego ;(</string>
+  <string name ="YourPasswordShouldHaveMinmum5Letters">Twoje hasło powinno składać się przynajmniej z 5 znaków</string>
+  <string name ="LoginShouldhaveMinimum4Sign">Nazwa użytkownika powinna się składać przynajmniej z 4 znaków</string>
+  <string name ="PasswordsAreNotTheSame">Podane hasła nie są identyczne!</string>
+  <string name ="AccountWasCreated">Twoje konto zostało utworzone!</string>
+  <!--Response from server - Sing In Module-->
+  <string name ="loginSI">Login lub adress E-maill...</string>
+  <string name ="passwordSI">Hasło</string>
+  <string name ="rememberMeSi">Pamiętaj mnie !</string>
+  <string name ="siSI">Zaloguj!</string>
+  <string name ="NeedLogin">Podaj nazwę użytkownika!</string>
+  <string name ="NeedPassword">Podaj swoje hasło!</string>
+  <string name ="logInSuccess">Zalogowano!</string>
+  <string name ="badPassword">Twoje hasło jest niepoprawne</string>
+  <string name ="apiKey">AIzaSyBQVOpKMSFlkDdA_oKklNBl_dIpVSoz3A4</string>
+</resources>

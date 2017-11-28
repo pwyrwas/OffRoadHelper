@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">OffroadHelper</string>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">OFFroadRescue</string>
+  <string name="openDrawer">Drawer Open</string>
+  <string name="closeDrawer">Drawer Close</string>
+  <string name="settingsDrawer">Settings</string>
+  <!--Main.axml-->
+  <string name="header">Hello!</string>
+  <string name="or">or</string>
+  <string name="signIn">Sign In!</string>
+  <string name="signUp">Sign Up with e-mail !</string>
+  <!--Response from server - Sing Up Module -dialog_sign_up.axml-->
+  <string name ="firstNameSingUp">Your login...</string>
+  <string name ="EmailSingUp">Your e-mail...</string>
+  <string name ="PasswordSingUp">Password...</string>
+  <string name ="password2SingUp">Repeat your password...</string>
+  <string name ="sUSignUp">SignUp!</string>
+
+  <string name ="AllfieldsmustBefilledIn">All fields must be filled in</string>
+  <string name ="EmailAdressAreIncorrect">Email Adress are incorrect!</string>
+  <string name ="ThisLoginIsArleadyInUse">This login is arleady in use</string>
+  <string name ="YourPasswordShouldHaveMinmum5Letters">Your password should have minmum 5 letters</string>
+  <string name ="LoginShouldhaveMinimum4Sign">Login should have minimum 4 sign</string>
+  <string name ="PasswordsAreNotTheSame">Passwords are not the same</string>
+  <string name ="AccountWasCreated">Account was created!</string>
+  <!--Response from server - Sing In Module-->
+  <string name ="loginSI">Login or E-maill address...</string>
+  <string name ="passwordSI">Password</string>
+  <string name ="rememberMeSi">Remember me !</string>
+  <string name ="siSI">Sign In!</string>
+  <string name ="NeedLogin">Enter your login!</string>
+  <string name ="NeedPassword">Enter your password!</string>
+  <string name ="logInSuccess">You are login!</string>
+  <string name ="badPassword">Your password are incorrect</string>
+  <string name ="apiKey">AIzaSyBQVOpKMSFlkDdA_oKklNBl_dIpVSoz3A4</string>
+</resources>
