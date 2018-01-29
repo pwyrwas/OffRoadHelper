@@ -25,6 +25,11 @@
   <string name ="LoginShouldhaveMinimum4Sign">Login should have minimum 4 sign</string>
   <string name ="PasswordsAreNotTheSame">Passwords are not the same</string>
   <string name ="AccountWasCreated">Account was created!</string>
+  <!--Navigation drawer-->
+  <string name ="navHome">Home</string>
+  <string name ="navMap">Your localisation</string>
+  <string name ="navSettings">Settings</string>
+  <string name ="navLogOut">Log out!</string>
   <!--Response from server - Sing In Module-->
   <string name ="loginSI">Login or E-maill address...</string>
   <string name ="passwordSI">Password</string>

@@ -24,6 +24,11 @@
   <string name ="LoginShouldhaveMinimum4Sign">Nazwa użytkownika powinna się składać przynajmniej z 4 znaków</string>
   <string name ="PasswordsAreNotTheSame">Podane hasła nie są identyczne!</string>
   <string name ="AccountWasCreated">Twoje konto zostało utworzone!</string>
+  <!--Navigation drawer-->
+  <string name ="navHome">Start</string>
+  <string name ="navMap">Twoja lokalizacja</string>
+  <string name ="navSettings">Ustawienia</string>
+  <string name ="navLogOut">Wyloguj!</string>
   <!--Response from server - Sing In Module-->
   <string name ="loginSI">Login lub adress E-maill...</string>
   <string name ="passwordSI">Hasło</string>

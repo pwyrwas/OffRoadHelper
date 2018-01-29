@@ -57,16 +57,16 @@ namespace OffroadHelper.Resources.Fragments
 
         private void InitializeMapAndHandlers()
         {
-            SetUpMapIfNeeded();
+            //SetUpMapIfNeeded();
 
             if (_map != null)
             {
                 
-                //_map.MyLocation.Accuracy = 50;
-               // _map.MyLocation.Longitude = 50;
-               // _map.MyLocation.Bearing = 50;
-               //MapView.FromCamera (new RectangleF (0, 0, 320, 100), camera);
-                //_map.MyLocationEnabled = true;
+                _map.MyLocation.Accuracy = 50;
+                _map.MyLocation.Longitude = 50;
+                _map.MyLocation.Bearing = 50;
+                //MapView.FromCamera (new RectangleF (0, 0, 320, 100), camera);
+                _map.MyLocationEnabled = true;
                 _map.MapType = GoogleMap.MapTypeNormal;
                 _map.MyLocationChange += MapOnMyLocationChange;
                 _map.MarkerDragStart += MapOnMarkerDragStart;
@@ -81,6 +81,7 @@ namespace OffroadHelper.Resources.Fragments
                 _map.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(latLng, 13));
             }
         }
+
 
         private void MapOnMarkerDragEnd(object sender, GoogleMap.MarkerDragEndEventArgs e)
         {
@@ -101,13 +102,13 @@ namespace OffroadHelper.Resources.Fragments
         {
             if (null == _map)
             {
-                                
-               // _map = View.FindViewById<MapView>(Resource.Id.map).Map;
-               
+
+                //_map = View.FindViewById<MapView>(Resource.Id.map).GetMapAsync();
+
             }
         }
 
-
+        
         private void SettingButton_Click(object sender, EventArgs e)
         {
             Toast.MakeText(Activity, "Button setttings works !", ToastLength.Long).Show();
@@ -118,7 +119,7 @@ namespace OffroadHelper.Resources.Fragments
             _mapView.OnDestroy();
         }
 
-        
+
         public override void OnResume()
         {
             base.OnResume();
@@ -137,5 +138,7 @@ namespace OffroadHelper.Resources.Fragments
             base.OnLowMemory();
             _mapView.OnLowMemory();
         }
+       
+
     }
 }

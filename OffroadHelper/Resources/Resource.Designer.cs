@@ -2218,26 +2218,26 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020090
-			public const int avd_hide_password_1 = 2130837648;
+			// aapt resource value: 0x7f020094
+			public const int avd_hide_password_1 = 2130837652;
 			
-			// aapt resource value: 0x7f020091
-			public const int avd_hide_password_2 = 2130837649;
+			// aapt resource value: 0x7f020095
+			public const int avd_hide_password_2 = 2130837653;
 			
-			// aapt resource value: 0x7f020092
-			public const int avd_hide_password_3 = 2130837650;
+			// aapt resource value: 0x7f020096
+			public const int avd_hide_password_3 = 2130837654;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020093
-			public const int avd_show_password_1 = 2130837651;
+			// aapt resource value: 0x7f020097
+			public const int avd_show_password_1 = 2130837655;
 			
-			// aapt resource value: 0x7f020094
-			public const int avd_show_password_2 = 2130837652;
+			// aapt resource value: 0x7f020098
+			public const int avd_show_password_2 = 2130837656;
 			
-			// aapt resource value: 0x7f020095
-			public const int avd_show_password_3 = 2130837653;
+			// aapt resource value: 0x7f020099
+			public const int avd_show_password_3 = 2130837657;
 			
 			// aapt resource value: 0x7f020055
 			public const int ButtonSignInStyle = 2130837589;
@@ -2363,58 +2363,70 @@ namespace OffroadHelper
 			public const int ic_headset = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_menu = 2130837630;
+			public const int ic_home_black_24dp = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int Icon = 2130837631;
+			public const int ic_map_black_24dp = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int mail = 2130837632;
+			public const int ic_menu = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int mapMockup = 2130837633;
+			public const int ic_power_settings_new_black_24dp = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int navigation_empty_icon = 2130837634;
+			public const int ic_settings_black_24dp = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int notification_action_background = 2130837635;
+			public const int Icon = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int notification_bg = 2130837636;
+			public const int mail = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int notification_bg_low = 2130837637;
+			public const int mapMockup = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int notification_bg_low_normal = 2130837638;
+			public const int navigation_empty_icon = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int notification_bg_low_pressed = 2130837639;
+			public const int notification_action_background = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int notification_bg_normal = 2130837640;
+			public const int notification_bg = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int notification_bg_normal_pressed = 2130837641;
+			public const int notification_bg_low = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int notification_icon_background = 2130837642;
-			
-			// aapt resource value: 0x7f02008e
-			public const int notification_template_icon_bg = 2130837646;
-			
-			// aapt resource value: 0x7f02008f
-			public const int notification_template_icon_low_bg = 2130837647;
+			public const int notification_bg_low_normal = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int notification_tile_bg = 2130837643;
+			public const int notification_bg_low_pressed = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int notify_panel_notification_icon_bg = 2130837644;
+			public const int notification_bg_normal = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ProgressBarStyle = 2130837645;
+			public const int notification_bg_normal_pressed = 2130837645;
+			
+			// aapt resource value: 0x7f02008e
+			public const int notification_icon_background = 2130837646;
+			
+			// aapt resource value: 0x7f020092
+			public const int notification_template_icon_bg = 2130837650;
+			
+			// aapt resource value: 0x7f020093
+			public const int notification_template_icon_low_bg = 2130837651;
+			
+			// aapt resource value: 0x7f02008f
+			public const int notification_tile_bg = 2130837647;
+			
+			// aapt resource value: 0x7f020090
+			public const int notify_panel_notification_icon_bg = 2130837648;
+			
+			// aapt resource value: 0x7f020091
+			public const int ProgressBarStyle = 2130837649;
 			
 			static Drawable()
 			{
@@ -2429,8 +2441,8 @@ namespace OffroadHelper
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a00a1
-			public const int action0 = 2131361953;
+			// aapt resource value: 0x7f0a00a8
+			public const int action0 = 2131361960;
 			
 			// aapt resource value: 0x7f0a006e
 			public const int action_bar = 2131361902;
@@ -2453,17 +2465,17 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a004b
 			public const int action_bar_title = 2131361867;
 			
-			// aapt resource value: 0x7f0a009e
-			public const int action_container = 2131361950;
+			// aapt resource value: 0x7f0a00a5
+			public const int action_container = 2131361957;
 			
 			// aapt resource value: 0x7f0a006f
 			public const int action_context_bar = 2131361903;
 			
-			// aapt resource value: 0x7f0a00a5
-			public const int action_divider = 2131361957;
+			// aapt resource value: 0x7f0a00ac
+			public const int action_divider = 2131361964;
 			
-			// aapt resource value: 0x7f0a009f
-			public const int action_image = 2131361951;
+			// aapt resource value: 0x7f0a00a6
+			public const int action_image = 2131361958;
 			
 			// aapt resource value: 0x7f0a0003
 			public const int action_menu_divider = 2131361795;
@@ -2480,11 +2492,11 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a004d
 			public const int action_mode_close_button = 2131361869;
 			
-			// aapt resource value: 0x7f0a00a0
-			public const int action_text = 2131361952;
+			// aapt resource value: 0x7f0a00a7
+			public const int action_text = 2131361959;
 			
-			// aapt resource value: 0x7f0a00ae
-			public const int actions = 2131361966;
+			// aapt resource value: 0x7f0a00b5
+			public const int actions = 2131361973;
 			
 			// aapt resource value: 0x7f0a004e
 			public const int activity_chooser_view_content = 2131361870;
@@ -2507,8 +2519,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a002e
 			public const int always = 2131361838;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int appbar = 2131361943;
+			// aapt resource value: 0x7f0a0099
+			public const int appbar = 2131361945;
 			
 			// aapt resource value: 0x7f0a0019
 			public const int auto = 2131361817;
@@ -2525,14 +2537,26 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a008e
 			public const int btnSignIn = 2131361934;
 			
-			// aapt resource value: 0x7f0a009c
-			public const int btnSignUp = 2131361948;
+			// aapt resource value: 0x7f0a009e
+			public const int btnSignUp = 2131361950;
+			
+			// aapt resource value: 0x7f0a00a2
+			public const int bubble_description = 2131361954;
+			
+			// aapt resource value: 0x7f0a00a0
+			public const int bubble_image = 2131361952;
+			
+			// aapt resource value: 0x7f0a00a3
+			public const int bubble_subdescription = 2131361955;
+			
+			// aapt resource value: 0x7f0a00a1
+			public const int bubble_title = 2131361953;
 			
 			// aapt resource value: 0x7f0a0055
 			public const int buttonPanel = 2131361877;
 			
-			// aapt resource value: 0x7f0a00a2
-			public const int cancel_action = 2131361954;
+			// aapt resource value: 0x7f0a00a9
+			public const int cancel_action = 2131361961;
 			
 			// aapt resource value: 0x7f0a003a
 			public const int center = 2131361850;
@@ -2546,8 +2570,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0065
 			public const int checkbox = 2131361893;
 			
-			// aapt resource value: 0x7f0a00aa
-			public const int chronometer = 2131361962;
+			// aapt resource value: 0x7f0a00b1
+			public const int chronometer = 2131361969;
 			
 			// aapt resource value: 0x7f0a0043
 			public const int clip_horizontal = 2131361859;
@@ -2600,8 +2624,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a001e
 			public const int disableHome = 2131361822;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int drawer_layout = 2131361940;
+			// aapt resource value: 0x7f0a0096
+			public const int drawer_layout = 2131361942;
 			
 			// aapt resource value: 0x7f0a0070
 			public const int edit_query = 2131361904;
@@ -2609,8 +2633,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a002c
 			public const int end = 2131361836;
 			
-			// aapt resource value: 0x7f0a00b4
-			public const int end_padder = 2131361972;
+			// aapt resource value: 0x7f0a00bb
+			public const int end_padder = 2131361979;
 			
 			// aapt resource value: 0x7f0a0035
 			public const int enterAlways = 2131361845;
@@ -2639,8 +2663,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0049
 			public const int @fixed = 2131361865;
 			
-			// aapt resource value: 0x7f0a0096
-			public const int fragmentContainer = 2131361942;
+			// aapt resource value: 0x7f0a0097
+			public const int fragmentContainer = 2131361943;
 			
 			// aapt resource value: 0x7f0a0005
 			public const int home = 2131361797;
@@ -2654,8 +2678,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0053
 			public const int icon = 2131361875;
 			
-			// aapt resource value: 0x7f0a00af
-			public const int icon_group = 2131361967;
+			// aapt resource value: 0x7f0a00b6
+			public const int icon_group = 2131361974;
 			
 			// aapt resource value: 0x7f0a0016
 			public const int icon_only = 2131361814;
@@ -2666,8 +2690,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0050
 			public const int image = 2131361872;
 			
-			// aapt resource value: 0x7f0a00ab
-			public const int info = 2131361963;
+			// aapt resource value: 0x7f0a00b2
+			public const int info = 2131361970;
 			
 			// aapt resource value: 0x7f0a0000
 			public const int item_touch_helper_previous_elevation = 2131361792;
@@ -2681,11 +2705,11 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a001b
 			public const int light = 2131361819;
 			
-			// aapt resource value: 0x7f0a00b0
-			public const int line1 = 2131361968;
+			// aapt resource value: 0x7f0a00b7
+			public const int line1 = 2131361975;
 			
-			// aapt resource value: 0x7f0a00b2
-			public const int line3 = 2131361970;
+			// aapt resource value: 0x7f0a00b9
+			public const int line3 = 2131361977;
 			
 			// aapt resource value: 0x7f0a001c
 			public const int listMode = 2131361820;
@@ -2693,14 +2717,14 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0052
 			public const int list_item = 2131361874;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int map = 2131361945;
+			// aapt resource value: 0x7f0a009b
+			public const int map = 2131361947;
 			
-			// aapt resource value: 0x7f0a00b6
-			public const int masked = 2131361974;
+			// aapt resource value: 0x7f0a00bd
+			public const int masked = 2131361981;
 			
-			// aapt resource value: 0x7f0a00a4
-			public const int media_actions = 2131361956;
+			// aapt resource value: 0x7f0a00ab
+			public const int media_actions = 2131361963;
 			
 			// aapt resource value: 0x7f0a002d
 			public const int middle = 2131361837;
@@ -2711,20 +2735,26 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0024
 			public const int multiply = 2131361828;
 			
-			// aapt resource value: 0x7f0a00ba
-			public const int nav_discussion = 2131361978;
+			// aapt resource value: 0x7f0a00be
+			public const int nav_home = 2131361982;
 			
-			// aapt resource value: 0x7f0a00b9
-			public const int nav_friends = 2131361977;
+			// aapt resource value: 0x7f0a00c1
+			public const int nav_logOut = 2131361985;
 			
-			// aapt resource value: 0x7f0a00b7
-			public const int nav_home = 2131361975;
+			// aapt resource value: 0x7f0a00bf
+			public const int nav_map = 2131361983;
 			
-			// aapt resource value: 0x7f0a00b8
-			public const int nav_messages = 2131361976;
+			// aapt resource value: 0x7f0a00c0
+			public const int nav_set = 2131361984;
+			
+			// aapt resource value: 0x7f0a00a4
+			public const int nav_userName = 2131361956;
 			
 			// aapt resource value: 0x7f0a0095
-			public const int nav_view = 2131361941;
+			public const int nav_userNameHome = 2131361941;
+			
+			// aapt resource value: 0x7f0a0098
+			public const int nav_view = 2131361944;
 			
 			// aapt resource value: 0x7f0a0085
 			public const int navigation_header_container = 2131361925;
@@ -2738,14 +2768,14 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0011
 			public const int normal = 2131361809;
 			
+			// aapt resource value: 0x7f0a00b4
+			public const int notification_background = 2131361972;
+			
+			// aapt resource value: 0x7f0a00ae
+			public const int notification_main_column = 2131361966;
+			
 			// aapt resource value: 0x7f0a00ad
-			public const int notification_background = 2131361965;
-			
-			// aapt resource value: 0x7f0a00a7
-			public const int notification_main_column = 2131361959;
-			
-			// aapt resource value: 0x7f0a00a6
-			public const int notification_main_column_container = 2131361958;
+			public const int notification_main_column_container = 2131361965;
 			
 			// aapt resource value: 0x7f0a0041
 			public const int parallax = 2131361857;
@@ -2756,8 +2786,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0042
 			public const int pin = 2131361858;
 			
-			// aapt resource value: 0x7f0a009d
-			public const int progressBar1 = 2131361949;
+			// aapt resource value: 0x7f0a009f
+			public const int progressBar1 = 2131361951;
 			
 			// aapt resource value: 0x7f0a0006
 			public const int progress_circular = 2131361798;
@@ -2774,11 +2804,11 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a003f
 			public const int right = 2131361855;
 			
-			// aapt resource value: 0x7f0a00ac
-			public const int right_icon = 2131361964;
+			// aapt resource value: 0x7f0a00b3
+			public const int right_icon = 2131361971;
 			
-			// aapt resource value: 0x7f0a00a8
-			public const int right_side = 2131361960;
+			// aapt resource value: 0x7f0a00af
+			public const int right_side = 2131361967;
 			
 			// aapt resource value: 0x7f0a0012
 			public const int satellite = 2131361810;
@@ -2879,8 +2909,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0040
 			public const int start = 2131361856;
 			
-			// aapt resource value: 0x7f0a00a3
-			public const int status_bar_latest_event_content = 2131361955;
+			// aapt resource value: 0x7f0a00aa
+			public const int status_bar_latest_event_content = 2131361962;
 			
 			// aapt resource value: 0x7f0a0068
 			public const int submenuarrow = 2131361896;
@@ -2894,11 +2924,11 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0013
 			public const int terrain = 2131361811;
 			
-			// aapt resource value: 0x7f0a00b3
-			public const int text = 2131361971;
+			// aapt resource value: 0x7f0a00ba
+			public const int text = 2131361978;
 			
-			// aapt resource value: 0x7f0a00b1
-			public const int text2 = 2131361969;
+			// aapt resource value: 0x7f0a00b8
+			public const int text2 = 2131361976;
 			
 			// aapt resource value: 0x7f0a005c
 			public const int textSpacerNoButtons = 2131361884;
@@ -2915,8 +2945,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a000d
 			public const int textinput_error = 2131361805;
 			
-			// aapt resource value: 0x7f0a00a9
-			public const int time = 2131361961;
+			// aapt resource value: 0x7f0a00b0
+			public const int time = 2131361968;
 			
 			// aapt resource value: 0x7f0a0054
 			public const int title = 2131361876;
@@ -2927,8 +2957,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a0061
 			public const int title_template = 2131361889;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int toolBar = 2131361944;
+			// aapt resource value: 0x7f0a009a
+			public const int toolBar = 2131361946;
 			
 			// aapt resource value: 0x7f0a0034
 			public const int top = 2131361844;
@@ -2945,8 +2975,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a000b
 			public const int transition_scene_layoutid_cache = 2131361803;
 			
-			// aapt resource value: 0x7f0a009a
-			public const int txtCreateAccount = 2131361946;
+			// aapt resource value: 0x7f0a009c
+			public const int txtCreateAccount = 2131361948;
 			
 			// aapt resource value: 0x7f0a0090
 			public const int txtEmail = 2131361936;
@@ -2957,8 +2987,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a008b
 			public const int txtLogin = 2131361931;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int txtOr = 2131361947;
+			// aapt resource value: 0x7f0a009d
+			public const int txtOr = 2131361949;
 			
 			// aapt resource value: 0x7f0a008c
 			public const int txtPassowrd = 2131361932;
@@ -2978,11 +3008,14 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f0a000e
 			public const int view_offset_helper = 2131361806;
 			
-			// aapt resource value: 0x7f0a00b5
-			public const int visible = 2131361973;
+			// aapt resource value: 0x7f0a00bc
+			public const int visible = 2131361980;
 			
 			// aapt resource value: 0x7f0a0018
 			public const int wide = 2131361816;
+			
+			// aapt resource value: 0x7f0a0094
+			public const int witaj = 2131361940;
 			
 			// aapt resource value: 0x7f0a0032
 			public const int withText = 2131361842;
@@ -3176,13 +3209,13 @@ namespace OffroadHelper
 			public const int dialog_sign_up = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int HomePage = 2130903083;
+			public const int Home = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int include_list_viewpager = 2130903084;
+			public const int HomePage = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int layout1 = 2130903085;
+			public const int include_list_viewpager = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
 			public const int LocationMap = 2130903086;
@@ -3191,64 +3224,70 @@ namespace OffroadHelper
 			public const int Main = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int nav_header = 2130903088;
+			public const int my_bubble = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int notification_action = 2130903089;
+			public const int nav_header = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int notification_action_tombstone = 2130903090;
+			public const int notification_action = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int notification_media_action = 2130903091;
+			public const int notification_action_tombstone = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_media_cancel_action = 2130903092;
+			public const int notification_media_action = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int notification_template_big_media = 2130903093;
+			public const int notification_media_cancel_action = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int notification_template_big_media_custom = 2130903094;
+			public const int notification_template_big_media = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int notification_template_big_media_narrow = 2130903095;
+			public const int notification_template_big_media_custom = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int notification_template_big_media_narrow_custom = 2130903096;
+			public const int notification_template_big_media_narrow = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int notification_template_custom_big = 2130903097;
+			public const int notification_template_big_media_narrow_custom = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int notification_template_icon_group = 2130903098;
+			public const int notification_template_custom_big = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int notification_template_lines_media = 2130903099;
+			public const int notification_template_icon_group = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int notification_template_media = 2130903100;
+			public const int notification_template_lines_media = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int notification_template_media_custom = 2130903101;
+			public const int notification_template_media = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int notification_template_part_chronometer = 2130903102;
+			public const int notification_template_media_custom = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int notification_template_part_time = 2130903103;
+			public const int notification_template_part_chronometer = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int select_dialog_item_material = 2130903104;
+			public const int notification_template_part_time = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int select_dialog_multichoice_material = 2130903105;
+			public const int OSMMap = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int select_dialog_singlechoice_material = 2130903106;
+			public const int select_dialog_item_material = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int support_simple_spinner_dropdown_item = 2130903107;
+			public const int select_dialog_multichoice_material = 2130903107;
+			
+			// aapt resource value: 0x7f030044
+			public const int select_dialog_singlechoice_material = 2130903108;
+			
+			// aapt resource value: 0x7f030045
+			public const int support_simple_spinner_dropdown_item = 2130903109;
 			
 			static Layout()
 			{
@@ -3300,11 +3339,11 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f07004d
 			public const int LoginShouldhaveMinimum4Sign = 2131165261;
 			
-			// aapt resource value: 0x7f070054
-			public const int NeedLogin = 2131165268;
+			// aapt resource value: 0x7f070058
+			public const int NeedLogin = 2131165272;
 			
-			// aapt resource value: 0x7f070055
-			public const int NeedPassword = 2131165269;
+			// aapt resource value: 0x7f070059
+			public const int NeedPassword = 2131165273;
 			
 			// aapt resource value: 0x7f070046
 			public const int PasswordSingUp = 2131165254;
@@ -3411,8 +3450,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f070023
 			public const int abc_toolbar_collapse_description = 2131165219;
 			
-			// aapt resource value: 0x7f070058
-			public const int apiKey = 2131165272;
+			// aapt resource value: 0x7f07005c
+			public const int apiKey = 2131165276;
 			
 			// aapt resource value: 0x7f07003a
 			public const int app_name = 2131165242;
@@ -3420,8 +3459,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f070032
 			public const int appbar_scrolling_view_behavior = 2131165234;
 			
-			// aapt resource value: 0x7f070057
-			public const int badPassword = 2131165271;
+			// aapt resource value: 0x7f07005b
+			public const int badPassword = 2131165275;
 			
 			// aapt resource value: 0x7f070033
 			public const int bottom_sheet_behavior = 2131165235;
@@ -3489,11 +3528,23 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f070040
 			public const int header = 2131165248;
 			
-			// aapt resource value: 0x7f070056
-			public const int logInSuccess = 2131165270;
+			// aapt resource value: 0x7f07005a
+			public const int logInSuccess = 2131165274;
+			
+			// aapt resource value: 0x7f070054
+			public const int loginSI = 2131165268;
 			
 			// aapt resource value: 0x7f070050
-			public const int loginSI = 2131165264;
+			public const int navHome = 2131165264;
+			
+			// aapt resource value: 0x7f070053
+			public const int navLogOut = 2131165267;
+			
+			// aapt resource value: 0x7f070051
+			public const int navMap = 2131165265;
+			
+			// aapt resource value: 0x7f070052
+			public const int navSettings = 2131165266;
 			
 			// aapt resource value: 0x7f07003d
 			public const int openDrawer = 2131165245;
@@ -3504,8 +3555,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f070047
 			public const int password2SingUp = 2131165255;
 			
-			// aapt resource value: 0x7f070051
-			public const int passwordSI = 2131165265;
+			// aapt resource value: 0x7f070055
+			public const int passwordSI = 2131165269;
 			
 			// aapt resource value: 0x7f070035
 			public const int password_toggle_content_description = 2131165237;
@@ -3522,8 +3573,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f070039
 			public const int path_password_strike_through = 2131165241;
 			
-			// aapt resource value: 0x7f070052
-			public const int rememberMeSi = 2131165266;
+			// aapt resource value: 0x7f070056
+			public const int rememberMeSi = 2131165270;
 			
 			// aapt resource value: 0x7f070048
 			public const int sUSignUp = 2131165256;
@@ -3534,8 +3585,8 @@ namespace OffroadHelper
 			// aapt resource value: 0x7f07003f
 			public const int settingsDrawer = 2131165247;
 			
-			// aapt resource value: 0x7f070053
-			public const int siSI = 2131165267;
+			// aapt resource value: 0x7f070057
+			public const int siSI = 2131165271;
 			
 			// aapt resource value: 0x7f070042
 			public const int signIn = 2131165250;

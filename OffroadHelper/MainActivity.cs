@@ -284,7 +284,7 @@ namespace OffroadHelper
 
                     mProgressBar.Visibility = Android.Views.ViewStates.Visible;
                     LogInModule lg = new LogInModule();
-                    lg.AddUserParams(mtxtusername.ToString(), mtxtpassword.ToString(), rbRememberMe.Checked);
+                    lg.AddUserParams(mtxtusername.Text.ToString(), mtxtpassword.Text.ToString(), rbRememberMe.Checked);
                     lg.saveLoginData();
                     //don't knwo why colors not set at #64FFDA after all good field
                     Thread.Sleep(1000);

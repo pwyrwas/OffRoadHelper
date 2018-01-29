@@ -260,7 +260,23 @@ namespace OffroadHelper.Resources.Class
         // get Login state
         public bool GetLogInState() => blogInState;
         // get actual user name     
-        public string GetUserName() => sLogIn;
+        public string GetUserName()
+        {
+
+            XDocument xmlDoc = new XDocument();
+            var doc = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            doc = System.IO.Path.Combine(doc, "LogInfile.xml");
+            if (!System.IO.File.Exists(doc)) return "Error!";
+            else
+            {
+                //Acces to user and Password elements
+                xmlDoc = XDocument.Load(doc);
+                var user = xmlDoc.Descendants().Where(T => T.Name == "User").FirstOrDefault();
+                return user.Value.ToString();
+            }
+            
+        }
+
         // Change user name
         public bool UpDateUserName(string newLogin)
         {
